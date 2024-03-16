@@ -1,0 +1,12 @@
+[data-body] {
+    background: white;
+    color: black;
+}
+[data-div] {
+    align-content: center;
+    align-items: center;
+    height: 100px;
+}
+[data-header] {
+    color: black;
+}
